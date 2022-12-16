@@ -1,7 +1,7 @@
 # React - Calc Project
-Calculator project, created in Orange Tech + Bootcamp.
+Calculator project, created in [Orange Tech](https://web.dio.me/track/orange-tech/) + Bootcamp.
 
-## Tecnologias 
+## Tecnologias utilizadas 
 
 ### Contato
    
