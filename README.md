@@ -13,7 +13,7 @@ Calculator project, created in [Orange Tech](https://web.dio.me/track/orange-tec
 ### Developer
 ---
 
- <sub><b>Daiane Gonçalves</b></sub> 🚀
+ Daiane Gonçalves 🚀
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/daianegoncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
