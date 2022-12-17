@@ -1,7 +1,7 @@
 # React - Calc Project
 Calculator project, created in [Orange Tech](https://web.dio.me/track/orange-tech/) + Bootcamp.
 
-## Tecnologias utilizadas 
+## Technologies 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daianee-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daianee-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -10,7 +10,7 @@ Calculator project, created in [Orange Tech](https://web.dio.me/track/orange-tec
   <img align="right" alt="Daianee-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/95250588?v=4">
 </div>
 
-### Autor
+### Developer
 ---
 
  <sub><b>Daiane Gonçalves</b></sub> 🚀
